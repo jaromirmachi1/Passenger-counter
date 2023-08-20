@@ -1,0 +1,52 @@
+body {
+    background-image: url("minimalist-night-city-buildings-23-4k.jpg");
+    background-size: cover;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: rgb(255, 84, 227);
+}
+
+#save-btn {
+    background: rgb(70, 227, 248);
+}
+
+.box {
+    background-color: rgba(7, 2, 2, 0.521);
+    max-width: 40%;
+    margin: auto;
+    color: white;
+    margin: 30px;
+    padding: 50px;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
